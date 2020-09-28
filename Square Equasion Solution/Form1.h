@@ -299,7 +299,7 @@ namespace SquareEquasionSolution {
 				 if (a == 0&&b == 0&&c == 0) {
 					 tBx1->Text = "";
 					 tBx2->Text = "";
-					 lblComm->Text = "Все коэфициенты - нули";
+					 lblComm->Text = "Все коэфициенты - нули\nВерное тождество";
 				 }
 				 else if (a==0) {
 					 tBx1->Text = "";

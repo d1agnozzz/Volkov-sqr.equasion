@@ -1,32 +1,32 @@
-﻿Build started 14.09.2020 12:37:50.
-     1>Project "c:\Users\klepo\documents\visual studio 2010\Projects\Square Equasion Solution\Square Equasion Solution\Square Equasion Solution.vcxproj" on node 2 (build target(s)).
+﻿Построение начато 28.09.2020 15:37:19.
+     1>Проект "E:\Основы Программирования\Volkov-sqr.equasion\Square Equasion Solution\Square Equasion Solution.vcxproj" в узле 2 (целевые объекты build).
      1>InitializeBuildStatus:
-         Creating "Debug\Square Equasion Solution.unsuccessfulbuild" because "AlwaysCreate" was specified.
+         Создание "Debug\Square Equasion Solution.unsuccessfulbuild", так как было задано "AlwaysCreate".
        GenerateTargetFrameworkMonikerAttribute:
-       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
        ClCompile:
-         All outputs are up-to-date.
+         Для всех выходных данных обновления не требуется.
          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Square Equasion Solution.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt "Square Equasion Solution.cpp" /clr:nostdlib 
          Square Equasion Solution.cpp
-         All outputs are up-to-date.
+         Для всех выходных данных обновления не требуется.
        CoreResGen:
-         No resources are out of date with respect to their source files. Skipping resource generation.
+         Отсутствуют ресурсы, устаревшие по отношению к файлам своих источников. Пропуск формирования ресурсов.
        ResourceCompile:
-         All outputs are up-to-date.
+         Для всех выходных данных обновления не требуется.
        Link:
-         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\klepo\documents\visual studio 2010\Projects\Square Equasion Solution\Debug\Square Equasion Solution.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\SquareEquasionSolution.Form1.resources /MANIFEST /ManifestFile:"Debug\Square Equasion Solution.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\klepo\documents\visual studio 2010\Projects\Square Equasion Solution\Debug\Square Equasion Solution.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Основы Программирования\Volkov-sqr.equasion\Debug\Square Equasion Solution.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\SquareEquasionSolution.Form1.resources /MANIFEST /ManifestFile:"Debug\Square Equasion Solution.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Основы Программирования\Volkov-sqr.equasion\Debug\Square Equasion Solution.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
          Debug\AssemblyInfo.obj
          "Debug\Square Equasion Solution.obj"
          Debug\stdafx.obj
          "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
-         Square Equasion Solution.vcxproj -> c:\users\klepo\documents\visual studio 2010\Projects\Square Equasion Solution\Debug\Square Equasion Solution.exe
+         Square Equasion Solution.vcxproj -> E:\Основы Программирования\Volkov-sqr.equasion\Debug\Square Equasion Solution.exe
        Manifest:
-         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"c:\users\klepo\documents\visual studio 2010\Projects\Square Equasion Solution\Debug\Square Equasion Solution.exe;#1" /manifest "Debug\Square Equasion Solution.exe.intermediate.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\Основы Программирования\Volkov-sqr.equasion\Debug\Square Equasion Solution.exe;#1" /manifest "Debug\Square Equasion Solution.exe.intermediate.manifest"
        FinalizeBuildStatus:
-         Deleting file "Debug\Square Equasion Solution.unsuccessfulbuild".
-         Touching "Debug\Square Equasion Solution.lastbuildstate".
-     1>Done Building Project "c:\Users\klepo\documents\visual studio 2010\Projects\Square Equasion Solution\Square Equasion Solution\Square Equasion Solution.vcxproj" (build target(s)).
+         Файл "Debug\Square Equasion Solution.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Square Equasion Solution.lastbuildstate".
+     1>Построение проекта "E:\Основы Программирования\Volkov-sqr.equasion\Square Equasion Solution\Square Equasion Solution.vcxproj" завершено (целевые объекты build).
 
-Build succeeded.
+Построение успешно завершено.
 
-Time Elapsed 00:00:00.77
+Затраченное время: 00:00:05.41
